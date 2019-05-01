@@ -1,0 +1,14 @@
+<style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  .pink-text {
+    color: pink;
+  }
+  .blue-text {
+color: blue;
+  }
+</style>
+<h1 class="pink-text blue-text">Hello World!</h1>  /*create two class (pink and blue-text) and call at the same time in h1 tag*/
