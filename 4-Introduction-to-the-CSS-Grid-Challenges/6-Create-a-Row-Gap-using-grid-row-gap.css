@@ -14,7 +14,7 @@
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
     /* add your code below this line */
-    grid-row-gap: 5px; /*make space between rows*/    
+    grid-row-gap: 5px;                                          /*make space between rows*/    
     /* add your code above this line */
   }
 </style>
