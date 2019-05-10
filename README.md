@@ -29,7 +29,7 @@ Validate some data through scripts on the client side before being sent to the s
 
 ## What is runtime?
 
-Es el tiempo que tarda un programa en ejecutarse en el sistema operativo.
+It is the time it takes for a program to run on the operating system.
 
 ## How many instances of the client-side assets (HTML, CSS, JS, Images, etc.) are created?
 
